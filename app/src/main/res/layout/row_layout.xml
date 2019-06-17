@@ -16,6 +16,7 @@
         android:src="@drawable/pic1"
         android:scaleType="fitXY"
         android:padding="6dp"
+
         />
 
 
